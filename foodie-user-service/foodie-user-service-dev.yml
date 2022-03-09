@@ -1,0 +1,11 @@
+# 数据库
+mariadb:
+  url: 'jdbc:mariadb://localhost:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=TRUE'
+  password: 
+
+# 功能开关 -- 注册功能开关
+userservice:
+  registration:
+    disabled: true
+
+# actuator
