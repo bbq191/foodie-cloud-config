@@ -6,6 +6,6 @@ mariadb:
 # 功能开关 -- 注册功能开关
 userservice:
   registration:
-    disabled: true
+    disabled: false
 
 # actuator
